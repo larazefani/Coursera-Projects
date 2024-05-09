@@ -1,3 +1,1 @@
-This repo is where i save all my coursera projects
-
-# Coursera-Projects
+# Databases-and-SQL-for-Data-Science-with-Python
