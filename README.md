@@ -1,1 +1,2 @@
-
+## Data Science Project Repository
+Welcome to my Data Science Project repository! This repository contains all the files and resources related to my projects completed as part of the Coursera Data Science Specialization. Here, you will find code, data, and documentation for each project.
